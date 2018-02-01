@@ -17,6 +17,7 @@ Finally, the script includes logic for posting the resulting video (generated us
 # Installation
 
 * Clone this repository somewhere you have write permissions.
+* Download the soundfont file using [Git LFS](https://git-lfs.github.com/)
 * Install this project dependencies following the links provided in requirements. Remember the Soundfont editor is not mandatory since an adequate soundfont is already included. Order is not relevant.
 * Install Python dependencies by running:
 ```
